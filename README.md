@@ -1,5 +1,5 @@
 # Bible-Study-Prompts
-Bible Study Prompts Studying the Biblical Texts through a thought-for-thought apostolic 50-95 AD lens.
+Bible Study Prompts: Studying the Biblical Texts through a thought-for-thought apostolic 30-95 AD lens.
 
 BIBLE STUDY PROMPTS: USER MANUAL AND FRAMEWORK GUIDE
 ====================================================
