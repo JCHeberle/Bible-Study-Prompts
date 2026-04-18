@@ -15,9 +15,7 @@ Large Language Models are prediction engines trained on vast oceans of human tex
 The AI's neural pathways are fundamentally hardwired with what we call the **"Majority Report."** This includes:
 
 * **Commercial/Transactional Logic:** Treating salvation as a literal financial exchange (e.g., "paying off a debt to a distant God").
-
 * **Post-95 AD Frameworks:** Using 16th-century Reformation concepts or 11th-century Anselmian Satisfaction theories as the default lens for reading a 1st-century text.
-
 * **Clinical/Analytical Language:** Describing spiritual realities using modern biological, clinical, or systematic terms rather than the organic, relational vocabulary used by the Apostles.
 
 Because this post-95 AD view is statistically dominant, it exerts a massive gravitational pull. The AI will default to it every single time unless explicitly and forcefully restrained.
@@ -55,21 +53,17 @@ Throughout history, well-meaning scholars have invented complex vocabulary to ex
 As you use this prompt, especially in small groups or Discord study sessions, you might encounter a few edge cases:
 
 * **"This feels restrictive!"** It is completely normal to feel a bit of friction when you first use this framework. However, these exclusions are purely defensive tools. They are not designed to ban ideas, but to protect the 1st-century lens. Think of it like a water filter: it doesn't restrict your water; it simply removes the sediment so you can drink it pure.
-
 * **"Does this framework argue for a specific denomination?"**
-  No. This framework never argues for or against any specific modern theological view. It simply enforces the axiom that the text must agree with itself. Users who prefer to view Scripture through the lens of modern denominational frameworks will naturally self-select out of using this prompt.
-
+No. This framework never argues for or against any specific modern theological view. It simply enforces the axiom that the text must agree with itself. Users who prefer to view Scripture through the lens of modern denominational frameworks will naturally self-select out of using this prompt.
 * **"Will this work on my preferred AI model?"**
-  Yes! The framework relies on foundational prompting logic. However, different models handle the mandatory `<Chain_of_Reasoning>` XML tags slightly differently:
+Yes! The framework relies on foundational prompting logic. However, different models handle the mandatory `<Chain\\\_of\\\_Reasoning>` XML tags slightly differently:
 
-  * **Claude (Anthropic):** Claude is explicitly trained to follow XML tags. It will execute the `<Chain_of_Reasoning>` natively and flawlessly.
-
-  * **ChatGPT (OpenAI) & Gemini:** Both easily handle the massive context window and will reliably generate the `<Chain_of_Reasoning>` block to validate their work before giving you the final answer.
-
+  * **Claude (Anthropic):** Claude is explicitly trained to follow XML tags. It will execute the `<Chain\\\_of\\\_Reasoning>` natively and flawlessly.
+  * **ChatGPT (OpenAI) \& Gemini:** Both easily handle the massive context window and will reliably generate the `<Chain\\\_of\\\_Reasoning>` block to validate their work before giving you the final answer.
   * **Grok / Local / Other Models:** If a specific AI model gets confused by the XML tags (e.g., trying to write code instead of reasoning), simply modify the prompt to ask the AI to "output its Chain of Reasoning as a bulleted list" instead of an XML block.
 
 ### BEST PRACTICES FOR USAGE
 
 * **Share Freely:** You can confidently share this prompt in forums, study groups, or with students. Because the framework is strictly governed by Scripture interpreting Scripture, it provides a highly rigorous, objective baseline for group discussion.
-
 * **Reviewing Outputs:** When reviewing the AI's answers, always check them against this core manual. Ask yourself: Did the AI successfully logically "AND" the passages together, or did it try to sneak in a modern theological shortcut?
+

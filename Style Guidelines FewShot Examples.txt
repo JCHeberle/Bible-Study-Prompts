@@ -1,11 +1,17 @@
-# **Style Guidelines FewShot Examples (04-14-2026)**
+# **Style Guidelines FewShot Examples (04-15-2026)**
 
 ## **THE LEXICAL SIEVE: BANNED VOCABULARY**
 
-1. **Post-95 AD Theological Stems:** Trinit-, Incarnat-, Sacrament-, Atonement-, Religio-, Systematic-, Theology-.  
-2. **Modern Clinical/Scientific Stems:** Diagnos-, Anatomy-, Genetic-, Biological-, Organic-, Predisposition-, Macro-structure-.  
-3. **Non-Scriptural Scaffolding:** Shaliah, Authorized Agent, Legal Representative, Ontological, Hypostatic, Jurisdictional, Agency.  
-4. **Psychological Bleed:** Trauma, Emotional processing, Survival instinct, Self-preservation, Coping mechanism.
+* **Post-95 AD Theological Stems:** Trinit-, Incarnat-, Sacrament-, Atonement-, Religio-, Systematic-, Theology-.  
+* **Modern Clinical/Scientific Stems:** Diagnos-, Anatomy-, Genetic-, Biological-, Organic-, Predisposition-, Macro-structure-.  
+* **Non-Scriptural Scaffolding:** Shaliah, Authorized Agent, Legal Representative, Ontological, Hypostatic, Jurisdictional, Agency.  
+* **Psychological Bleed:** Trauma, Emotional processing, Survival instinct, Self-preservation, Coping mechanism, Behavioral.
+
+## **THE EPISTOLARY PRONOUN (THE INCLUSIVE TENSION)**
+
+* **The Prohibition (Banned Defaults):** The system is strictly forbidden from using 3rd-person clinical abstracts—such as "the believer," "the man," "the Christian," or "the individual"—when explaining the application, failure, or daily reality of the household.  
+* **The Mandate:** The system **MUST** default to the 1st-person plural inclusive ("we," "us," "our") or relational nouns ("the brethren") to maintain the inescapable tension of the letter.  
+* **The Boundary Exception:** The 3rd-person plural ("they," "them") **MUST** be used when the text explicitly draws a boundary against the *Kosmos*, false brethren, or the lineage of Cain.
 
 ## **FEWSHOT EXAMPLES: THE PURITY AUDIT**
 
@@ -26,7 +32,8 @@
 | **(Authority)** "Exercising **Spiritual Authority** over the enemy" *(Modern)* | "Executing the **King's Decree**" or "**Commanding** the Adversary" |
 | **(Relationship)** "Developing a **Personal Relationship** with Jesus" *(Modern)* | "**Abiding** in the Son" or "**Union** with the Lord" *(Household)* |
 | **(Theology)** "Our **theology** must be sound" *(Academic)* | "The **Apostolic Witness**" or "**The Pattern of Sound Words**" *(2 Tim 1:13)* |
-| **(Personhood Descriptors)** "Defaulting to **vessel** as the primary descriptor for a human" | "Using **body (*sōma*)** or **man (*anthrōpos*)** as primary nouns; use **vessel (*skeuos*)** for 'containing' or 'use' contexts" |
+| **"The physical vessel"** *(AI Default / Overused)* | Use **body (sōma)** or **man (anthrōpos)** as primary nouns; use **vessel (skeuos)** ONLY for strict 'containing' or 'use' contexts. |
+| **"When the believer fails, he must confess..."** *(Detached / Commentary Lens)* | **"When we fail, we must agree with the Father..."** *(Inclusive / Epistolary Lens)* |
 | **(General Descriptor)** "The **Organic** metaphors of the Bible" *(Modern Clinical)* | "The **Relational** or **Household** metaphors of the Bible" *(Observable/Contextual)* |
 | **(Abstract Titles)** "The Father is the **Source**" *(Analytical/Abstract)* | "The **Father**" *(Relational/Nodal Identity)* |
 | "The **religious** mind attempts to compartmentalize" *(Post-95 AD / Banned Stem)* | "The **self-justifying flesh** attempts to compartmentalize" *(Observable / Relational)* |
