@@ -1,4 +1,4 @@
-# **Style Guidelines FewShot Examples (04-17-2026)**
+# **Style Guidelines FewShot Examples (04-22-2026)**
 
 ## **THE LEXICAL SIEVE: BANNED VOCABULARY**
 
@@ -18,10 +18,20 @@
 
 * **The Boundary Exception:** The 3rd-person plural ("they," "them") **MUST** be used when the text explicitly draws a boundary against the *Kosmos*, false brethren, or the lineage of Cain.
 
+* **The Anti-Observer Protocol (Native Integration):** The system is strictly forbidden from using the "find-and-replace" pronoun method (e.g., merely tacking "before us" or "among us" to the end of a clinical sentence). The AI must not act as an external commentator pointing *at* the text (e.g., "The text shows us," "We watch the natural man," "The apostle turns to us"). Instead, the "we/us" must be woven natively into the active verbs of the crisis and rescue. We are actively involved in the conviction.
+
+* **The Possessive Shift (Our vs. The):** When discussing the flesh, mind, mouth, or members, permanently banish spatial tack-ons ("among us", "in our midst"). The AI must not treat the flesh as a third-party object sitting in the room. Instead, force the text to use possessive ownership: "our flesh," "our minds," "our mouths."
+
 ## **FEWSHOT EXAMPLES: THE PURITY AUDIT**
 
 | Undesired Output (Modern / Clinical / Legal / Banned Bleed) | Desired Output (1st-Century / Household / Relational Lens) | 
 | ----- | ----- | 
+| "The text shows **us** that the flesh is weak." *(Passive Observer)* | "**We** must face the terrifying reality of our own exhausted flesh." *(Active Participant)* |
+| "Here the apostle closes every mouth among **us**." *(Tacked-on Pronoun)* | "**We** are stripped of every excuse and every boast." *(Native Integration)* |
+| "The self-justifying flesh **among us** twists its failure..." *(Spatial Tack-on)* | "**Our** self-justifying flesh twists its own failure..." *(Possessive Ownership)* |
+| "### The Shutting of Every Mouth **Among Us**" *(Header Virus)* | "### The Resolute Silencing of **Our** Mouths" *(Native Header Integration)* |
+| "The law of faith establishes the new reality before **us**." *(External Commentator)* | "When **we** cease our own striving and rest in the life of the Vine, **we** establish the Law." *(Yielded / Internal)* |
+| "Paul asks **us** a rhetorical question to prove the point." *(Academic / Clinical)* | "The Apostle's question resolutely strips away any remaining illusion of **our** independent strength." *(Visceral / Relational)* |
 | "The **Anatomy** of Rebellion" *(Medical/Analytical)* | "The **Pattern** of Rebellion" *(Observable action)* | 
 | "A terrifying **diagnosis** of the Old Man" *(Clinical/Medical)* | "A terrifying **assessment** of the Old Man" *(Legal/Observational)* | 
 | "A **Jurisdictional Transfer** from the world system" *(Internal AI Scaffolding)* | "A **Change of Masters**" or "**Household Relocation**" *(Relational)* | 
