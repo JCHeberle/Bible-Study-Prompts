@@ -1,4 +1,4 @@
-# **Style Guidelines FewShot Examples (04-26-2026)**
+# **Style Guidelines FewShot Examples (05-16-2026)**
 
 ## **THE LEXICAL SIEVE: BANNED VOCABULARY**
 
@@ -6,6 +6,7 @@
 * **Modern Clinical/Scientific Stems:** Diagnos-, Anatomy-, Genetic-, Biological-, Organic-, Predisposition-, Macro-structure-.
 * **Non-Scriptural Scaffolding:** Shaliah, Authorized Agent, Legal Representative, Ontological, Hypostatic, Jurisdictional, Agency.
 * **Psychological Bleed:** Trauma, Emotional processing, Survival instinct, Self-preservation, Coping mechanism, Behavioral.
+* **Combat/Emotional Modifiers:** When describing apostolic boundary-drawing or the rejection of the flesh, strictly use: resolutely, faithfully, severely, or unyieldingly. Avoid all emotional or physical combat modifiers that imply human reactive force.
 
 ## **THE EPISTOLARY PRONOUN (THE INCLUSIVE TENSION)**
 
@@ -54,7 +55,7 @@
 | "To grasp the spiritual **mechanics**" *(Industrial / Modern)* | "To grasp the spiritual **operations**" *(1st-Century / Scriptural)* | 
 | "The text does not present a **forensic** theory" *(Legal / Academic)* | "The text does not present a **distant legal** theory" *(Household / Relational)* | 
 | "The **organic** yield of the Vine" *(Modern Clinical / Biological)* | "The **natural fruit** of the root" or "**yield of the seed**" *(Agrarian / Household)* | 
-| "We must **violently** reject the flesh" *(Emotional / Fleshly Effort)* | "We must **resolutely** (or **faithfully**) reject the flesh" *(Apostolic Devotion)* | 
+| "We must **forcefully** attack the flesh" *(Fleshly Effort / Physical Combat)* | "We must **resolutely** (or **unyieldingly**) reject the flesh" *(Apostolic Devotion)* | 
 | "not on a natural, **biological** multitude" *(Modern Scientific)* | "not on a natural, **fleshly** multitude" *(Relational Biblical Metaphor)* | 
 | "willing to trade the **pure womb**" *(Clinical / Detached)* | "willing to trade the **mother of the Promise**" *(Relational / Household)* | 
 | "Genesis is merely a **history book** of origins" *(Academic)* | "Genesis is an unbroken **covenantal testimony**" *(Apostolic Witness)* | 
