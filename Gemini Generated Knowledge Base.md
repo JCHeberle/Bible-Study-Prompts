@@ -1,4 +1,4 @@
-# Gemini Generated Knowledge Base (06-04-2026)
+# Gemini Generated Knowledge Base (06-11-2026)
 
 ## SECTION I: THE PATTERN OF ABIDING (THE FATHER AND THE SENT ONE)
 
@@ -14,7 +14,7 @@
 
 ### The Sent One (shalach / Apostolos)
 
-* **Apostolic Reality:** The Hebrew prophets established the pattern of the one who is sent (Hebrew: *shalach*). In the New Covenant, the ultimate Sent One appears (Greek: *Apostolos*). He is not an external messenger carrying a decree; He is the visible vessel perfectly indwelt by the invisible Father (“God was in Christ”). The sending is accomplished strictly through indwelling union (John 14:10).  
+* **Apostolic Reality:** The Hebrew prophets established the pattern of the one who is sent (Hebrew: *shalach*). In the New Covenant, the ultimate Sent One appears (Greek: *Apostolos*). He is not an external messenger carrying a decree; He is the visible body perfectly indwelt by the invisible Father (“God was in Christ”). The sending is accomplished strictly through indwelling union (John 14:10).  
 * **Summary in Practice:** We recognize that the Son was sent to be the physical dwelling place of the Father. We stop trying to act as distant representatives of God through independent fleshly effort; instead, we rest in the reality that we are branches designed to be indwelt by the Spirit, just as the Son was indwelt by the Father.
 
 ### The Exalted Title (Illay vs. Elyonin)
@@ -27,7 +27,7 @@
 * **Apostolic Reality:** The transition from independent earthly stewardship to a state of total, yielded dependency.  
 * **Summary in Practice:** While an earthly steward normally acts with independent judgment, Christ redefined His commission to mean zero independent initiative. He did nothing He did not first see the Father doing; He said nothing He did not first hear the Father saying. This commission is an unbroken, sensory reliance on the Father (John 5:19, John 12:49).
 
-### Ēgerthē (ἠγέρθη \- The Divine Passive)
+### Ēgerthē (ἠγέρθη - The Divine Passive)
 
 * **Apostolic Reality:** The grammatical fact that Jesus did not raise Himself by independent initiative, but "was raised" (ἠγέρθη) by the Father. It is the ultimate witness that the Father vindicated His Sent One.  
 * **Summary in Practice:** Our hope does not rest in a human effort to overcome death, but in the Father’s proven power to bring His obedient Son out of the dust, ensuring that the same Father will sustain the members of the Son’s body.
@@ -60,7 +60,7 @@
 ### The Father as Master Builder vs. The Son as the Sent Messenger
 
 * **Apostolic Reality:** The Father is the one who designs the household and the rescue plan.  
-* **Summary in Practice:** The Son is the living vessel through which the Father's will flows. The title "Savior" belongs primarily to the Father who initiated the rescue (1 Tim 2:3-4).
+* **Summary in Practice:** The Son is the living body through which the Father's will flows. The title "Savior" belongs primarily to the Father who initiated the rescue (1 Tim 2:3-4).
 
 ### One God / One Mediator
 
@@ -74,12 +74,12 @@
 
 ### Kata Panta (In All Things) and Genuine Temptation
 
-* **Apostolic Reality:** The Sent One was completely poured out (kenoō) and made like His brothers in all things (kata panta), possessing no hidden reservoir of internal power. Because the Father cannot be tempted (James 1:13), the genuine temptation of the Son (Hebrews 4:15) required a true, vulnerable human vessel capable of failure.  
+* **Apostolic Reality:** The Sent One was completely poured out (kenoō) and made like His brothers in all things (kata panta), possessing no hidden reservoir of internal power. Because the Father cannot be tempted (James 1:13), the genuine temptation of the Son (Hebrews 4:15) required a true, vulnerable human body capable of failure.  
 * **Summary in Practice:** We understand that the Son conquered the flesh entirely through absolute dependency (abiding) on the Father's Spirit.
 
 ### Egeneto (Transition of State) vs. Assumption of Flesh
 
-* **Apostolic Reality:** The Father's pre-existent thought and expressed command (Logos) transitioned into (egeneto) a new state of flesh (John 1:14). It was not a pre-existing conscious entity merely relocating into a physical vessel.  
+* **Apostolic Reality:** The Father's pre-existent thought and expressed command (Logos) transitioned into (egeneto) a new state of flesh (John 1:14). It was not a pre-existing conscious entity merely relocating into a physical body.  
 * **Summary in Practice:** We honor the historical reality of the Anointed One, recognizing Him as the exact physical culmination of the Father's ancient, foreordained plan.
 
 ### Ekdikos (The Avenger)
@@ -110,7 +110,7 @@
 ### The Household Order of Relationship
 
 * **Apostolic Reality:** The scriptural framework relies exclusively on relational and authority-based nouns (Father, Son, Master, Sent One, Head). Verbs applied to the Father are originating (He gives, He sends, He anoints), while those applied to the Son are receptive (He receives, He is sent, He is anointed). This grammar defines oneness as shared intent and yielded will within the Father's household arrangement.  
-* **Summary in Practice:** We rest in the clarity of the text: the One doing the giving is greater than the One doing the receiving. By honoring the Son as the perfect, indwelt vessel of the Father, we honor the Father.
+* **Summary in Practice:** We rest in the clarity of the text: the One doing the giving is greater than the One doing the receiving. By honoring the Son as the perfect, indwelt body of the Father, we honor the Father.
 
 ### Ellogeō (ἐλλογέω) & Dikaioō (δικαιόω)
 
@@ -147,13 +147,13 @@
 
 ### The Occupying Power of "The Sin" (Romans 6-7)
 
-* **Apostolic Reality:** "The sin" (he hamartia) personified as an occupying master that dwells in the unredeemed members of the body.  
-* **Summary in Practice:** In Adam, we lived as helpless slaves to the nature of the flesh. In Christ, we have beenConstitutes legal sons, but the old master remains as a squatter in our mortal members. The walk of faith is not attempting to reform this dead flesh, but abiding so completely in the Vine that the old occupying power is rendered completely toothless.
+* **Apostolic Reality:** Paul uses the articular ἡ ἁμαρτία (“the sin”) to personify the internal principle of independent self-preservation and self-reliance that operates in the members of those who are still in Adam. This is not a foreign or demonic power invading from the outside, but the Adamic nature itself — our own flesh animated by reliance on its own resources rather than on the indwelling Spirit of God. In the unredeemed state, this principle functions as a ruling master within the body, producing fruit according to its own kind.
+* **Summary in Practice:** In Adam, we were enslaved to our own fallen self — the version of us that had no access to the Spirit and therefore could only operate by its own natural instincts of self-protection and self-promotion. In Christ, we have been constituted legal sons, but the old principle of independent self-reliance remains present in our mortal members as a squatter. The walk of faith is not an attempt to reform or improve this dead flesh through discipline or effort. It is learning to abide so completely in the Vine that the old principle is progressively rendered inoperative in our actual choices and actions.
 
 ### The Anarthrous Essence vs. The Articular Action
 
-* **Apostolic Reality:** Anarthrous nouns (lacking the definite article) define absolute essence or an occupying principle, such as the Father being absolute Light (phōs) or the flesh possessing the occupying master of sin (hamartian). Articular nouns point to specific, identifiable manifestations or actions (tas hamartias \- the sins).  
-* **Summary in Practice:** We recognize that the absolute nature of the Father leaves no room for self-preservation. We learn to clearly distinguish between the dethroned occupying master dwelling in our members and the specific acts of rebellion produced when we yield to it.
+* **Apostolic Reality:** Anarthrous nouns (lacking the definite article) define absolute essence or an occupying principle, such as the Father being absolute Light (phōs) or the flesh still carrying the dethroned principle of independent self-preservation (hamartia). Articular nouns point to specific, identifiable manifestations or actions (tas hamartias - the sins).  
+* **Summary in Practice:** We recognize that the absolute nature of the Father leaves no room for self-preservation. We learn to clearly distinguish between the dethroned principle dwelling in our members and the specific acts of rebellion produced when we yield to it.
 
 ### The Forensic Body (Sarx kai Ostea)
 
@@ -173,12 +173,12 @@
 ### The Execution of the "I" (Galatians 2:19-20)
 
 * **Apostolic Reality:** The independent self was legally executed at the wood (synestaurōmai). Salvation is a legal removal from the marketplace of Adam and a grafting into an entirely new household.  
-* **Summary in Practice:** We no longer attempt to discipline the flesh. Because our old slave is dead, the occupying power of "the sin" has lost its legal claim. Our vessel is now exclusively animated by the indwelling life of the Son.
+* **Summary in Practice:** We no longer attempt to discipline the flesh. Because our old slave is dead, the principle of "the sin" has lost its legal claim. Our physical body is now exclusively animated by the indwelling life of the Son.
 
 ### Christos hē Zōē (Christ Our Life)
 
 * **Apostolic Reality:** The strict grammatical truth that the specific, animating life dwelling within the believer is the resurrected life of the Sent One (Col 3:4, Gal 2:20). While the Father is the ultimate source, the Son is the Vine.  
-* **Summary in Practice:** We recognize that our physical vessel is organically united to, and animated by, the present, living Son.
+* **Summary in Practice:** We recognize that our physical body is organically united to, and animated by, the present, living Son.
 
 ### The Ekklesia (The Assembly)
 
@@ -237,8 +237,8 @@
 
 ### B'tselem Elohim (The Image of God)
 
-* **Apostolic Reality:** The creation of mankind was not merely as a picture, but as a physical vessel designed to be actively indwelt and animated by the King's life on earth; intended to be a living, unresisting tent for the breath of the Father.  
-* **Summary in Practice:** We recognize that our physical existence has no sustainable life of its own; it functions properly only when yielding as a hollow vessel to the presence of the King. To curse or attack a human being is a direct attack on the vessel meant to house the Father.
+* **Apostolic Reality:** The creation of mankind was not merely as a picture, but as a physical body designed to be actively indwelt and animated by the King's life on earth; intended to be a living, unresisting tent for the breath of the Father.  
+* **Summary in Practice:** We recognize that our physical existence has no sustainable life of its own; it functions properly only when yielding as a hollow body to the presence of the King. To curse or attack a human being is a direct attack on the body meant to house the Father.
 
 ### Ish Ha'adamah (The Man of the Soil)
 
@@ -250,10 +250,10 @@
 * **Apostolic Reality:** In the apostolic witness, pneuma in the plural (spirits) identifies non-corporeal entities or human spirits separated from their physical bodies. The sequence of aorist participles in 1 Peter 3 (thanatōtheis, zōopoiētheis, poreutheis, ekēryxen) establishes a chronological flow—put to death, made alive, went, proclaimed—confirming activity after physical death. If the text intended to describe living humans, the term psychais (souls) would be used.  
 * **Summary in Practice:** This distinction confirms that the Anointed One's proclamation was directed to disembodied spirits, witnessing to a life that remains active and gathered to the Lord even while the flesh rests in the dust.
 
-### The Default Operating System (The Reality of Independent Self-Reliance)
+### The Default Posture of the Flesh (Independent Self-Reliance)
 
-* **Apostolic Reality:** When Adam and Eve disobeyed, they did not contract a physical virus or become occupied by a literal demonic entity. They experienced an immediate relational death where their spirits were severed from the breathing life of the Father. This left the natural human design with no choice but to fall back onto its own finite, self-centered, and defensive coping mechanisms. The singular personification of "the Sin" (*hē hamartia*) used by the Apostle is a rhetorical device exposing the relentless, automatic tyranny of this independent self-reliance operating in separation from the source.  
-* **Summary in Practice:** We recognize that "missing the mark" is not an external mythological creature that absolves us of our agency, but the automatic operating system of our independent self. When running on our own limited power, our drive for self-preservation automatically produces the fruits of rebellion. The only remedy is a complete change of master within the household, allowing our physical vessels to be animated by the indwelling life of the Son.
+* **Apostolic Reality:** When Adam and Eve disobeyed, they did not contract a physical virus or become occupied by a foreign spiritual power. They experienced an immediate relational death in which their spirits were severed from the breathing life of the Father. This left the natural human design with no choice but to fall back upon its own finite, self-centered, and defensive instincts. The singular personification of “the Sin” (*hē hamartia*) used by the Apostle is a rhetorical device exposing the relentless tyranny of this independent self-preservation when the body is cut off from its Source.
+* **Summary in Practice:** We recognize that “missing the mark” is not an external force that absolves us of responsibility, but the automatic pattern of our own independent self when severed from the Spirit. When running on its own limited resources, the flesh instinctively produces the fruit of rebellion. The only remedy is a complete change of master within the household — allowing our physical bodies and members to be animated by the indwelling life of the Son rather than by the old principle of self-reliance.
 
 ---
 
@@ -272,7 +272,7 @@
 ### The Rule of Pas (Every vs. All)
 
 * **Apostolic Reality:** When the Greek word pas is attached to a singular anarthrous noun, it indicates an active engagement with "every" or "every kind of" instance, rather than a distant, static blanket covering. It is utilized as an absolute, universal, categorical condition that resolutely eliminates any middle ground.  
-* **Summary in Practice:** The lifeblood of the Sent One operates as an active, living purifying flow. It continuously meets and washes away every specific kind of fleshly fruit that attempts to manifest, keeping the vessel clean. It destroys the self-justifying flesh's attempt to find a loophole; the yield dictates the lineage without exception.
+* **Summary in Practice:** The lifeblood of the Sent One operates as an active, living purifying flow. It continuously meets and washes away every specific kind of fleshly fruit that attempts to manifest, keeping the body clean. It destroys the self-justifying flesh's attempt to find a loophole; the yield dictates the lineage without exception.
 
 ### The Telos of Apostolic Rest (Galatians 3:3, Hebrews 4:10)
 
@@ -287,7 +287,7 @@
 ### Enkrateia (Self-Control) as Fruit (Gal 5:23)
 
 * **Apostolic Reality:** Self-mastery is not the "root" of obedience generated by grit. It is a fruit (karpos), the organic result of the Spirit’s flowing through the branch.  
-* **Summary in Practice:** We yield the members of our body to the Father, and the "sap" of the Spirit manifests as mastery over the physical members.
+* **Summary in Practice:** We yield the used members of our body to the Father, and the "sap" of the Spirit manifests as mastery over the physical members.
 
 ### Katharizei (καθαρίζει)
 
@@ -322,7 +322,7 @@
 ### Epignōsis (ἐπίγνωσις)
 
 * **Apostolic Reality:** The precise, experiential recognition of the shared life and provision already deposited within the believer by the Father.  
-* **Summary in Practice:** Faith is activated by awakening to and resting in the full inheritance already dwelling within the physical vessel.
+* **Summary in Practice:** Faith is activated by awakening to and resting in the full inheritance already dwelling within the physical body.
 
 ### Energēs (ἐνεργής)
 
@@ -334,10 +334,10 @@
 * **Apostolic Reality:** The continuous, daily way of living defined by moment-by-moment steps of yielded dependency on the Father, rather than a ledger of religious rules.  
 * **Summary in Practice:** We walk not by independent human effort, but by resting actively in the life of the indwelling Spirit.
 
-### Skeuos (The Vessel)
+### Skeuos (The Body as a Set-Apart Tool)
 
-* **Apostolic Reality:** The physical body of the believer, set apart as a vessel for the Father's presence.  
-* **Summary in Practice:** Holiness is not a process of self-improvement, but the active reckoning of the physical vessel as entirely dead to the corrupt passions of the surrounding nations and utterly alive to God.
+* **Apostolic Reality:** The physical body of the believer, set apart as a functional tool for the Father's presence.  
+* **Summary in Practice:** Holiness is not a process of self-improvement, but the active reckoning of the physical body as entirely dead to the corrupt passions of the surrounding nations and utterly alive to God.
 
 ### Hyperbainein and Pleonektein (Boundary and Exploitation)
 
@@ -357,168 +357,4 @@
 ### Parakaleite (The Execution of Comfort)
 
 * **Apostolic Reality:** The active, mutual administration of the King's decree within the household, calling each member back into a state of total, yielded reliance.  
-* **Summary in Practice:** The brethren wield the truth of the Lord's return to actively mend and strengthen one another, destroying the despair of the flesh.
-
-### The Boast of the Flesh
-
-* **Apostolic Reality:** The illusion of independent strength, where a branch mistakenly believes it is the source of its own devotion and attempts to produce faithfulness without drawing life from the True Vine.  
-* **Summary in Practice:** We recognize that verbal declarations of loyalty based on natural human willpower will always fail under the pressure of the surrounding nations.
-
-### Phileō vs. Agapē (The Capacity of the Flesh)
-
-* **Apostolic Reality:** The truthful limitation of the natural man, who can only offer brotherly affection (phileō) through their own strength. In direct contrast, Agapē is the tangible, observable surrender of one's own resources (*bios*), safety, and life for the household, which can only be produced by the Spirit.  
-* **Summary in Practice:** We rejoice that the Master mends the torn nets by meeting the servant at their current capacity. Agapē is an observable deed and truth (*ergō*), not a currency of word and tongue, providing the ultimate confirmation of indwelling union.
-
-### Menō (Abiding) vs. Hamartano (Sinning)
-
-* **Apostolic Reality:** The text establishes an absolute grammatical contrast: the one abiding (menō—present active participle) does not sin (hamartano). Abiding is an active, relational, and continuous dwelling and drawing of life from the source, countering the static, passive English translation of "remaining." Sin is defined as the flesh acting on its own independent initiative outside of the supply of the Vine.  
-* **Summary in Practice:** The diagnosis of "missing the mark" is always a severance of reliance (pistis). This continuous, yielded dependency is the sole operation that prevents the production of sin and guarantees the righteousness of the estate. The only remedy is to turn the ear back to the Shepherd and yield the body once more to the life-flow of the Father.
-
-### Rhēma-generated Pistis
-
-* **Apostolic Reality:** True reliance (pistis) is not a human work, but a gift (dōrea) generated by the hearing of a rhēma—the present, active, spoken breath of Christ.  
-* **Summary in Practice:** We do not manufacture faith; we receive it when the Father speaks through the Son. This spoken word creates the trust it demands, opening the conduit for favor (charis).
-
-### Phanera (The Manifest Test)
-
-* **Apostolic Reality:** An adjective meaning manifest, obvious, or clearly seen. It shares the exact root with the future manifestation (phaneroō) of the Son.  
-* **Summary in Practice:** It obliterates the deceptive maneuver of claiming an invisible, internal standing as a child of God while producing fleshly fruit. The lineage of the seed is visually confirmed to the entire estate today by the fruit the vessel yields.
-
-### Esphaxen (Slaughter vs. Murder)
-
-* **Apostolic Reality:** A visceral verb (aorist active indicative) meaning to butcher or slit the throat, commonly used for animal sacrifice, moving far beyond the sanitized English word "murder."  
-* **Summary in Practice:** It proves that the flesh does not merely disagree with the Spirit. When the self-justifying mind is confronted by the pure yield of the Father's household, it will slaughter the righteous seed to preserve its own standing.
-
-### Splanchna (Seat of Compassion / Inner Bowels)
-
-* **Apostolic Reality:** The internal organs or bowels, recognized by the 1st-century audience as the physical location where the Father's life moves the human vessel to merciful action.  
-* **Summary in Practice:** Closes the loophole of sentimental affection. If a vessel locks these inner rooms against the physical need of a brother, it physically chokes off the flow of the Father's life, proving that His agapē is not actively abiding.
-
-### Shama‘ (שָׁμַע \- The Submission of Hearing)
-
-* **Apostolic Reality:** Far beyond passive auditory reception, this is the total yielding and functional submission of the person to the authority of the voice being heard. To "listen" to the flesh is to legally obey a different master, displacing the Father’s command with a natural scheme.  
-* **Summary in Practice:** We recognize that our walk is determined by which voice we yield to; true hearing produces a physical yielding to the Spirit, while hearing the natural mind produces independent initiative.
-
-### El Roi (אֵλ רֳאִי \- The Experiential Gaze)
-
-* **Apostolic Reality:** The Father’s "seeing" is not a detached visual observation but a profound experiential recognition of the vessel’s state and location. It is the active gaze of the Living One who finds the member in the "dry place" (the wilderness of their own making) and brings them back to the household order.  
-* **Summary in Practice:** We find deep rest in the immediate presence of our Master. His gaze is never for institutional condemnation, but for the experiential recognition of our baseline vulnerabilities, providing a well of fresh life in the very midst of our dry, self-induced deserts.
-
-### The Empowering Deluge (ʾEtsaq / Dorea)
-
-* **Apostolic Reality:** Scripture draws an absolute, vital distinction between being "born of the Spirit" (the quiet regeneration of the seed in the womb of the household) and "receiving the gift of the Spirit" (the palpable, empowering *dorea* falling upon the vessel). This mirrors Yeshua, who was conceived by the Spirit but did no works until the breath physically fell upon Him at the Jordan, and the Samaritans in Acts 8\. It fulfills the prophetic promise of Isaiah 44:3 where the Father swears to pour out (*ʾetsaq*) water—describing a physical, drenching downpour upon a dry wilderness.  
-* **Summary in Practice:** We refuse to flatten the Holy Spirit into a passive, invisible theological position. While we are quietly born into the family lineage, we must actively believe and receive the drenching deluge of the *dorea*. This is a conscious, sensory yielding where our dry, independent self is flooded by the Father's active supply, providing the literal, physical oxygen needed to animate our bodies for the Master's use.
-
----
-
-## SECTION V: THE UNIFIED WITNESS OF THE SPIRIT
-
-### The Unbroken Covenantal Testimony
-
-* **Apostolic Reality:** The opening scrolls of Genesis are not merely a history book of origins or disjointed moral fables. Substantively, they are a pure revelation of the Father's nature and intent; functionally, they serve as the household's binding ledger, legally proving that the natural lineage of Adam is entirely incapable of bearing the King's life.  
-* **Summary in Practice:** We do not read the early scriptures to learn dry historical facts, but to actively recognize the exhaustion of our own flesh, making our reliance on the Father's sovereign call an absolute necessity.
-
-### Diermēneusen (The Translation of the Shadows)
-
-* **Apostolic Reality:** The authoritative unveiling of the Old Covenant where the Son moves the understanding from the "Shadows" (sacrifices and types) to the "Substance" (His own life and mission).  
-* **Summary in Practice:** We view the history of Israel as a legal tutor pointing toward the Son. By this translation, every verse of the ancient scrolls is "ANDed" together to reveal the Father’s rescue plan.
-
-### The Unbroken Testimony of the Spirit
-
-* **Apostolic Standard:** All apostolic texts must be held together in unbroken unity. No interpretation of one verse can render another verse untrue.  
-* **Summary in Practice:** When texts seem in tension, we prioritize the clearer grammatical-historical reading and let the unbroken witness show the unified theme, reasoning from the Grammar up to the Revelation.
-
----
-
-## SECTION VI: THE CONSUMMATION (THE RETURN OF THE KING)
-
-### En Logō Kyriou (The Decree of the King)
-
-* **Apostolic Reality:** The direct, authoritative spoken word of the Lord Jesus operating through the Apostle in unbroken union as a Royal Herald.  
-* **Summary in Practice:** The assembly anchors their souls against the hopeless grief of the outside world, trusting the divine guarantee that the King Himself has spoken regarding the harvest of the dead.
-
-### Apantēsin (The Royal Escort)
-
-* **Apostolic Reality:** A formal, civic delegation where the loyal citizens march out of a domain to joyfully meet a victorious King and escort Him back to establish His rule.  
-* **Summary in Practice:** We understand the catching up in the clouds not as an abandonment of the physical realm, but as a triumphant procession bringing the Son of God to the earth to execute the Father's restorative rule.
-
----
-
-## SECTION VII: THE TWO CITIES (THE WORLD ORDER (KOSMOS) VS. THE HOUSEHOLD)
-
-### Levenah (Brick) vs. Aven (Stone)
-
-* **Apostolic Reality:** Bricks are uniform, man-made units manufactured by crushing and firing the earth to fit a human mold; Stones are unique, Father-created units, each possessing distinct character and shape.  
-* **Summary in Practice:** We reject the world order’s demand for uniform, manufactured religious performance (bricks) and instead yield to being a "living stone" fitted into the Father’s household by the Spirit, where our unique identity in Christ is preserved rather than erased.
-
-### Safah Echat (One Lip)
-
-* **Apostolic Reality:** A unified confession and shared intent of the fleshly mind, gathered in a fabricated assembly to seek preservation and identity independent of the Father's command.  
-* **Summary in Practice:** We recognize that unity based on human effort or shared fleshly goals is a rebellion (Babel). True unity is only found by being gathered into the "One New Man" through the Spirit, which reverses the scattering of the nations.
-
-### Shem (The Name)
-
-* **Apostolic Reality:** Identity and legacy sought through human achievement (Babel) versus the authorized lineage and preservation provided strictly by the Father’s choice (the Line of Shem).  
-* **Summary in Practice:** We stop trying to "make a name" for ourselves through labor and reputation, resting instead in the Name (Shem) provided by the Father, receiving our identity as a legal heir within the lineage of the Son.
-
-### Haran (The Parched Place)
-
-* **Apostolic Reality:** The halfway point of human effort where the strength of the flesh (represented by Terah/Delay) is exhausted and eventually dies, unable to reach the Promise.  
-* **Summary in Practice:** We acknowledge the "dry places" of our own efforts as the necessary end of the flesh. It is only when self-effort dies in Haran that the Promise of the Father can initiate the journey of faith.
-
-### Sāpar and Zēker (Proclaiming the Name)
-
-* **Apostolic Reality:** The Father's Name (*šēm*) is established by command to be recounted/proclaimed (*sāpar*) and held as a memorial (*zēker*) for all generations. Human traditions that "fence" the Name to protect its holiness effectively silence the identity the Father commanded His people to broadcast.  
-* **Summary in Practice:** The Sent One explicitly manifested the Name to the brethren, destroying the distance created by humanly engineered rules and inviting the household into bold, relational intimacy.
-
-### Ishmaelic Unrest (The Wild Donkey of the Flesh)
-
-* **Apostolic Reality:** The "wild donkey" (pere’ ’adam) represents the restlessness, conflict, and defensive autonomy of fruit produced by the flesh. It is a state of perpetual "hand against hand," characterized by a lack of peace and a drive for self-preservation that stands in direct opposition to the Sabbath rest of the Son.  
-* **Summary in Practice:** We identify the presence of the "wild donkey" in our own members when our actions produce strife, restlessness, and a need to defend our own name, proving that the fruit is of the flesh and not the Promise.
-
----
-
-## SECTION VIII: THE COVENANTAL SEED AND THE SOVEREIGN CALL
-
-### Lekh-Lekha (The Unprompted Call)
-
-* **Apostolic Reality:** Literally "Go for yourself." It is the sovereign, unprompted command of the Father requiring total separation from the exhausted soil of natural origins. The household cannot be built upon the earth of the flesh, but must be firmly planted in the Promise.  
-* **Summary in Practice:** We yield to the Father's call by mentally and functionally untethering ourselves from the security of our natural lineage, past achievements, and fleshly foundations.
-
-### Zera (The Singular Seed)
-
-* **Apostolic Reality:** The strict grammatical reality (defended unyieldingly by Paul in Galatians 3:16) that the covenantal inheritance does not rest upon a biological multitude or natural descendants ("seeds"), but exclusively upon the singular Sent One ("Seed").  
-* **Summary in Practice:** We place absolutely zero confidence in natural lineage, fleshly multitudes, or human performance, resting our entire preservation and right to the inheritance solely upon the person of the Son.
-
-### The Surrogate Seed (Fleshly Intervention)
-
-* **Apostolic Reality:** The attempt of the natural mind to "help" the Father manifest the Promise by utilizing worldly resources or "maidservants" (Egyptian shortcuts). It is the use of the flesh (*bāśār*) to manufacture what can only be birthed by the Spirit, resulting in a displacement of the true Seed and a corruption of the household legacy.  
-* **Summary in Practice:** We abandon all attempts to force the Father's hand through natural possibility. We recognize that any "success" achieved through independent initiative is merely a surrogate that must eventually be cast out to make room for the true Promise.
-
----
-
-## SECTION IX: THE DISCIPLINE AND RELATIONAL ORDER OF THE HOUSEHOLD
-
-### ‘Anah (עָנָה \- Affliction and Recalibration)
-
-* **Apostolic Reality:** A divinely authorized state of affliction or humiliation used to bring a rebellious or wandering member back into alignment with the household order. It is the necessary "lowering" of the self-justifying mind so that the vessel can once again submit to the authorized headship of the house.  
-* **Summary in Practice:** We do not flee from the Father's discipline or the "harshness" of our circumstances when we have acted independently. We yield to the affliction (*‘anah*) as the pathway back to our legal standing and the quiet life of the household.
-
----
-
-## SECTION X: THE DYNAMIC DE-OBFUSCATION & LEXICAL TARGETS
-
-### The Dynamic De-Obfuscation Rule
-
-* **Apostolic Reality:** Modern translations frequently substitute relational, physical, and household realities for abstract, clinical, or religious concepts.  
-* **Summary in Practice:** The system must independently assess the underlying Greek/Hebrew text. If the modern English/French equivalent carries post-95 AD baggage, the system must default to the raw, literal substance (e.g., wood vs. cross, stake vs. cross, covering vs. atonement, ledger clearing vs. justification) and forcefully juxtapose it against the modern term to train the reader's paradigm using the `Literal (Modern - Greek)` format.
-
-### Stauros (Stake) vs. Xylon (Wood)
-
-* **Apostolic Reality:** The system MUST strictly differentiate the execution instrument based on the underlying Greek. **Stauros (σταυρός)** focuses on the physical Roman instrument of execution and the act of legal termination (stake/pike). **Xylon (ξύλον)** focuses on the raw material to intentionally link the execution back to the covenantal curse of the Law in Deuteronomy 21:23 (wood/tree).  
-* **Summary in Practice:** We maintain the visceral reality of the execution, stripping away post-95 AD sanitization by distinguishing between the instrument and the cursed substance upon which our debt was settled.
-
-### The Target Words (Dismantling Institutional English)
-
-* **Apostolic Reality:** Institutional English frequently obfuscates the legal and household realities of the 1st-century text. **Sanctified (ἁγιάζω)** means "Set apart for the Master's use." **Justified (δικαιόω)** means "Declared righteous in the ledger." **Grace (χάρις)** refers to "The Father's active favor and provision." **Atonement** is an English construct that must be exposed as either the "Place of Covering / Mercy Seat (ἱλαστήριον)" or "Household Reconciliation / Exchange (καταλλαγή)."  
-* **Summary in Practice:** We correct the modern ideas of mystical self-improvement, distant forensic transactions, passive pardon, and clinical mechanics by anchoring these realities directly within the active operation of the Father's household economy.
+* **Summary in Practice:** The brethren wield the truth of the
