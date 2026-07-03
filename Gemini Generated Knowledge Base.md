@@ -1,4 +1,4 @@
-# **Gemini Generated Knowledge Base (06-25-2026)**
+# **Gemini Generated Knowledge Base (07-03-2026)**
 
 ## **SECTION I: THE PATTERN OF ABIDING (THE FATHER AND THE SENT ONE)**
 
@@ -116,7 +116,7 @@ The Father's Anger (*orgē*) is a settled, permanent, and stabilized posture of 
 
 ### **Redemption as a Ransom from the Marketplace (Exagorazō)**
 
-Our redemption (*exagorazō*) is the legal removal of a slave from the marketplace of death. We were not simply forgiven for separate bad deeds; we were completely purchased out of the ancestry of Adam, and our ancient lineage debt was settled forever when we were joined to the execution of Christ on the wood, legally terminating our connection to the old race.
+Our redemption (*exagorazō*) is the legal removal of a slave from the marketplace of death. We were not simply forgiven for separate bad deeds; we were completely purchased out of the ancestry of Adam, and our ancient lineage debt was settled forever when we were joined to the execution of Christ on the cross (wood), legally terminating our connection to the old race.
 
 ### **The Occupying Power of "The Sin" (Romans 6-7)**
 
@@ -140,7 +140,7 @@ Believers are placed into the status of legal Sons (*huioi*—heirs), which in t
 
 ### **The Execution of the "I" (Galatians 2:19-20)**
 
-Our independent self was legally executed at the wood (*synestaurōmai*). Salvation is not a process of self-improvement or disciplining the flesh, but a legal relocation out of the marketplace of Adam and a grafting into an entirely new household, where our old slave is dead, the principle of "the sin" has lost its legal claim, and our physical body is now animated by the indwelling life of the Son.
+Our independent self was executed with Christ at the cross (wood). The Greek word *synestaurōmai* (“I have been crucified with”) describes a real participation in Christ’s death, not merely a legal standing. In Romans 6:6 Paul uses the same root when he says our old self was crucified with Him (*synestaurōthē*). This is the old self-centered self — the independent “I” that lived out of its own resources while cut off from God in Adam. That old self has been put to death. It is no longer that independent self who lives, but Christ who lives in us. Salvation is not a process of improving or reforming the old self. It is a real relocation out of the old humanity and into a new one, where our physical bodies are now animated by the indwelling life of the Son.
 
 ### **Christos hē Zōē (Christ Our Life)**
 
@@ -205,6 +205,10 @@ In the apostolic witness, *pneuma* in the plural (*pneumasin*) identifies non-co
 ### **The Default Posture of the Flesh (Independent Self-Reliance)**
 
 When Adam and Eve disobeyed, they did not contract a physical virus or become occupied by a foreign spiritual power; they experienced an immediate relational death in which their spirits were severed from the breathing life of the Father. This left the natural human design with no choice but to fall back upon its own finite, self-centered, and defensive instincts. The singular personification of “the Sin” (*hē hamartia*) used by the Apostle is a rhetorical device exposing the relentless tyranny of this independent self-preservation when the body is cut off from its Source. We recognize that “missing the mark” is the automatic pattern of our own independent self when severed from the Spirit, and the only remedy is a complete change of master within the household—allowing our physical bodies and minds to be animated by the indwelling life of the Son.
+
+### **Two Men, Two Humanities**
+
+Scripture presents history as the story of two men and two humanities. Adam became the head of a humanity that, after losing relationship with God, could only reproduce after its own self-centered kind. From that point forward, every person born into that humanity shared the same independent, self-directed life that was separated from God. Christ is presented as the last Adam and the beginning of an entirely new kind of humanity. Through His obedience, the many are made righteous. Because of union with Him, His life now lives in and through those who belong to Him. We are no longer reproducing the old self-centered life of Adam, but are being brought into the life and image of Christ Himself. This is why the question arises in Romans 6: “Shall we continue in sin that grace may increase?” The answer is not found in trying harder, but in recognizing that we have already been transferred out of the old humanity and into the new one, where Christ Himself is our life.
 
 ## **SECTION IV: THE SCRIPTURAL PATTERN OF THE WALK**
 
