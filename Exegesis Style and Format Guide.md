@@ -112,7 +112,9 @@ Tier 1 inline glosses are short, natural parenthetical explanations woven into t
 Use sparingly in the running prose. Provide clear, thought-for-thought glosses when Greek or Hebrew appears, unless there is an obvious one-to-one correspondence. Most detailed lexical work should remain in the Translation Barriers.
 
 ### Terminology
-Prefer “family of God,” “the family,” or “God’s people” over heavy or repeated use of “household.” While “household” is historically accurate, modern readers often hear it as a nuclear family unit. Use language that helps the reader experience the larger relational reality the text intends.
+Dynamically prefer “family of God,” “the family,” “God’s people,” or “our shared life” when the emphasis is relational belonging, affection, or common life. These terms help modern readers experience the larger relational reality without the nuclear-family associations that “household” often triggers.
+
+“Household” remains a live and accurate biblical category (especially in Galatians 6:10, Ephesians 2:19, 1 Timothy 3:15, 1 Peter 4:17, and the broader οἶκος language of the Pastorals and Acts). Use it when the text itself employs the term, when structural or headship realities are in view, or when the larger estate sense is needed. Do not systematically replace it, and do not use it for everything.
 
 ---
 
