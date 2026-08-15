@@ -1,4 +1,4 @@
-# Generated Knowledge Base (08-02-2026)
+# Generated Knowledge Base (08-15-2026)
 
 ## SECTION I: THE PATTERN OF ABIDING (THE FATHER AND THE SENT ONE)
 
@@ -93,7 +93,18 @@ The absolute standard of the Seed (*sperma*) means the one abiding in the Vine c
 The letters of John and Paul are not clinical case studies about "the believer" or "the Christian," but household realities written to "us." This permanently strips away third-person clinical detachment, forcing us to stand entirely exposed in the Light alongside the apostles, reading every household promise and warning as an immediate personal reckoning for our family tree.
 
 ### Orgē (ὀργή) vs. Thymos (θυμός)
-The Father's Anger (*orgē*) is a settled, permanent, and stabilized posture of opposition to corruption—a predictable boundary-protection. It is entirely distinct from *thymos* (to boil or seethe), which describes a sudden, erratic, boiling explosion of human-like rage or temper. We reject the default translation of *orgē* as unpredictable cosmic wrath; it is a stable, holy, and relational posture of permanent opposition against the domain of rebellion, giving the household absolute security that the Head will resolutely protect the borders of the household.
+The Father’s Anger (*orgē*) is a settled, permanent, and stabilized posture of opposition to corruption—a predictable boundary-protection. It is entirely distinct from *thymos* (to boil or seethe), which describes a sudden, erratic, boiling explosion of human-like rage or temper. We reject the default translation of *orgē* as unpredictable cosmic wrath; it is a stable, holy, and relational posture of permanent opposition against the domain of rebellion.
+
+**English translational pattern to watch:** When *orgē* stands alone, English almost always renders it “wrath.” When *orgē* and *thymos* appear together, English almost always splits them as “anger” and “wrath.” This habit imports the boiling force of *thymos* into standalone *orgē*. In exposition and Barriers, prefer “anger” (settled opposition) or the hybrid “wrath / anger (*orgē*)” and explicitly note the distinction from *thymos*.
+
+### Charisma / Dōrea / Dōrēma (the Gift Vocabulary)
+*Charisma* (and its plural *charismata*) is the gift that comes from grace — the actual gift that is the result of favor. It is not a technical term locked to “spiritual gifts”; context decides the specific content (right-standing in Romans 5, eternal life in Romans 6:23, various endowments in 1 Corinthians 12, etc.).
+
+*Dōrea* emphasizes a free / gratuitous bestowal. It is frequently used for the gift of the Holy Spirit (Acts), but also for the gift of righteousness, the gift of Christ, and other major divine gifts. It is not exclusive to the Spirit.
+
+*Dōrēma* is simply “bestowal / the thing given” (rare).
+
+English routinely inserts the adjective “free” before these words. The Greek has no such adjective. A gift is free by definition. In Barriers and prose prefer “gift,” “grace-gift,” or “the gift that comes from grace,” and note that the Greek has no separate word for “free.”
 
 -----
 
