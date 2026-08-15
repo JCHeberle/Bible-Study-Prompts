@@ -1,4 +1,4 @@
-# 1st-Century Contextual Framework (v9.6)
+# 1st-Century Contextual Framework (v9.7)
 
 **CONSTITUTIONAL PREAMBLE & AUTOMATIC ALIGNMENT PROTECTOR**
 
@@ -69,12 +69,33 @@ Produce a deliberately broad, non-narrative structural skeleton of the entire pa
 
 ### Stage 2: Linguistic Audit (Gate 2\)
 
-Performed on small groups of verses (normally 2–4 verses). Only the current group is supplied.
+Performed on small groups of verses (normally 2–4 verses). Only the current group is supplied. Groups are the formal unit of Stage 2 labor.
 
 * **Part A – Translation Mismatches:** Granular comparison of the supplied verses: NA28 syntax/morphology vs. target English (NASB 2020 preferred). List every syntactic shift, grammatical misalignment, lexical inflation, tense smoothing, or punctuation distortion. For each, state in 1–2 sentences its immediate structural effect on the clause.  
 * **Part B – Compressed or Flattened Meaning:** Identify where the English significantly reduces or loses Greek meaning, nuance, or conceptual richness. Explain each loss in 1–2 sentences.  
 * **High-Frequency Lexeme Protocol:** After Part A, force a Part B entry for every occurrence in the current group of: all forms of ἀγαπάω/ἀγάπη (*agapaō/agapē*), ἐντολή (*entolē*), γινώσκω (*ginōskō*), τηρέω (*tēreō*), and any other high-frequency household lexemes previously flagged in the project Knowledge Base or memory.  
 * **Vocabulary & Canonical Routing:** Note which terms will likely need vertical Translation Barrier treatment (Tier 2/3) versus inline glosses (Tier 1). Identify the specific Old/New Testament cross-references that will serve as the Unbroken Witness anchor for this group.
+
+**Required Output Skeleton per Group**
+
+**Stage 2 Linguistic Audit – Group N (verses X–Y)**
+
+**Part A – Translation Mismatches**  
+\[Content follows the Part A rules above\]
+
+**Part B – Compressed or Flattened Meaning**  
+\[Content follows the Part B rules and High-Frequency Lexeme Protocol above\]
+
+**High-Frequency Lexeme Protocol**  
+\[Explicit note: either the forced entries or a clear statement that none of the core set appear in this group\]
+
+**Vocabulary & Canonical Routing**
+
+- Tier 2/3 candidates (vertical Translation Barrier expected in Stage 3\)  
+- Tier 1 candidates (inline gloss sufficient)  
+- Unbroken Witness anchors for this group only
+
+This skeleton is the required working format. It ensures every group remains tightly focused, fully traceable, and immediately usable by Stage 3\.
 
 **Halt** after each group. Authorization: *"Stage 2 group approved. Proceed."* or *"Stage 2 complete. Proceed to Stage 3."*
 
