@@ -9,7 +9,7 @@ Framework versions track the constitution; the companion files carry dates.
 ### Added
 
 - **License:** the repository is now released under CC BY-SA 4.0 (LICENSE file added).
-- **Framework Standing Rules** (11-12-2026), a new companion file. It sets out how Stage 1 grouping, Stage 2, Stage 3, and Integration apply the constitution, and tags every rule with the actor it governs.
+- **Framework_Standing_Rules.md** (11-12-2026), a new companion file. It sets out how Stage 1 grouping, Stage 2, Stage 3, and Integration apply the constitution, and tags every rule with the actor it governs.
 - **Agentic production.** A new section, "Execution: Agentic Production, Document-Only Review," states that execution is agentic: an orchestrating AI builds each worker a written, verified packet of inputs from the live files.
 - **Document-only adversarial review.** A reviewer receives all five live Framework files, each with its SHA-256, and no tools.
 - **Four named human gates.** Stage 1 approval, Stage 2 audit review, Stage 3 collaborative teaching, and the Integration dialogue. Agentic pipelines must never run the stages unattended in a single batch.
@@ -28,9 +28,9 @@ Framework versions track the constitution; the companion files carry dates.
 - **The supplied English version.** Comparisons now use the translation named when a chapter is commissioned, or the NASB 2020 when none is named. Version 9.8 said "NASB 2020 preferred."
 - **Stage 1** now has the AI build the Processing Group Table in mechanical 2-verse groups (previously "normally 2–4 verses"), with shared-sentence tags where a group boundary cuts a continuous sentence.
 - **Stage 3** is renamed from "Progressive Exposition" to "Progressive Teaching," with closed inputs listed explicitly.
-- **Generated Knowledge Base** (11-12-2026) is greatly expanded, from about 40 KB (about 6,200 words) to about 730 KB (about 112,000 words), with 60 numbered entries in the new uniform format.
-- **Exegesis Style and Format Guide** (11-12-2026) now defines the three registers, presents Section V as the model Published Exegesis page, and requires Greek and Hebrew on the reader's page to appear only in transliteration, with long vowels marked in SBL style.
-- **Style Guidelines FewShot Examples** (11-10-2026) now reference Framework v10.0 and speak of teaching paragraphs rather than exposition paragraphs.
+- **Generated_Knowledge_Base.md** (11-12-2026) is greatly expanded, from about 40 KB (about 6,200 words) to about 730 KB (about 112,000 words), with 60 numbered entries in the new uniform format.
+- **Exegesis_Style_and_Format_Guide.md** (11-12-2026) now defines the three registers, presents Section V as the model Published Exegesis page, and requires Greek and Hebrew on the reader's page to appear only in transliteration, with long vowels marked in SBL style.
+- **Style_Guidelines_FewShot_Examples.md** (11-10-2026) now reference Framework v10.0 and speak of teaching paragraphs rather than exposition paragraphs.
 
 ## [9.8] and earlier
 

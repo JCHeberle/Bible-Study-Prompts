@@ -16,7 +16,7 @@ The 1st-Century Contextual Framework is a set of five Markdown documents that gu
 
 1. **Download the five files** in this repository (or the latest release).
 2. **Create a dedicated AI project.** Use a Project, Gem, Custom GPT, or similar workspace on the AI platform you prefer. A model with a large context window and strong reasoning works best.
-3. **Load the constitution.** Put `1st-Century Contextual Framework.md` in the project's instructions. If the instructions field is too small to hold it (some platforms cap it near 12,000 characters), paste the whole file as the first message of the chat instead. The model reads it the same way.
+3. **Load the constitution.** Put `1st-Century_Contextual_Framework.md` in the project's instructions. If the instructions field is too small to hold it (some platforms cap it near 12,000 characters), paste the whole file as the first message of the chat instead. The model reads it the same way.
 4. **Add the other four files** as project knowledge or uploaded files: the Standing Rules, the Style Guide, the Style FewShot Examples, and the Generated Knowledge Base. The Knowledge Base is large (about 730 KB), so check your platform's file limits.
 5. **Choose a mode:**
    - Just ask a question to use **Dialogue Mode**, the default.
@@ -32,11 +32,11 @@ The 1st-Century Contextual Framework is a set of five Markdown documents that gu
 
 | File | Purpose | Version |
 |---|---|---|
-| `1st-Century Contextual Framework.md` | The constitution: the 30–95 AD interpretation rules, operational modes, the gated three-stage protocol, Integration, and the voice and layout mandates. | v10.0 |
-| `Framework Standing Rules.md` | The execution keeper: how each stage and Integration applies the constitution, with every rule tagged by who it governs. | 11-12-2026 |
-| `Exegesis Style and Format Guide.md` | Tone, voice, page structure, and the required model for a Published Exegesis page, including the three registers of exegesis, witness, and exposition. | 11-12-2026 |
-| `Style Guidelines FewShot Examples.md` | Short worked examples that calibrate the warm, eye-level teaching voice, pronoun choice, and family vocabulary. | 11-10-2026 |
-| `Generated Knowledge Base.md` | A closure log of first-century word and concept entries, each with its claim, verse chain, settled close, honesty clause, and rival chain answered. | 11-12-2026 |
+| `1st-Century_Contextual_Framework.md` | The constitution: the 30–95 AD interpretation rules, operational modes, the gated three-stage protocol, Integration, and the voice and layout mandates. | v10.0 |
+| `Framework_Standing_Rules.md` | The execution keeper: how each stage and Integration applies the constitution, with every rule tagged by who it governs. | 11-12-2026 |
+| `Exegesis_Style_and_Format_Guide.md` | Tone, voice, page structure, and the required model for a Published Exegesis page, including the three registers of exegesis, witness, and exposition. | 11-12-2026 |
+| `Style_Guidelines_FewShot_Examples.md` | Short worked examples that calibrate the warm, eye-level teaching voice, pronoun choice, and family vocabulary. | 11-10-2026 |
+| `Generated_Knowledge_Base.md` | A closure log of first-century word and concept entries, each with its claim, verse chain, settled close, honesty clause, and rival chain answered. | 11-12-2026 |
 
 ---
 
