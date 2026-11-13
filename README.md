@@ -37,6 +37,7 @@ The 1st-Century Contextual Framework is a set of five Markdown documents that gu
 | `Exegesis_Style_and_Format_Guide.md` | Tone, voice, page structure, and the required model for a Published Exegesis page, including the three registers of exegesis, witness, and exposition. | 11-12-2026 |
 | `Style_Guidelines_FewShot_Examples.md` | Short worked examples that calibrate the warm, eye-level teaching voice, pronoun choice, and family vocabulary. | 11-10-2026 |
 | `Generated_Knowledge_Base.md` | A closure log of first-century word and concept entries, each with its claim, verse chain, settled close, honesty clause, and rival chain answered. | 11-12-2026 |
+| `Locked_Rulings_Register.md` | An empty starting register for locked rulings on your own chapters. Standing rulings live in the five files above. | 11-13-2026 |
 
 ---
 
