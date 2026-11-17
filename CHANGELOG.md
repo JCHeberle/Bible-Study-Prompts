@@ -4,6 +4,18 @@ All notable changes to the 1st-Century Contextual Framework are recorded here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Framework versions track the constitution; the companion files carry dates.
 
+## [10.0] - 2026-11-16
+
+### Changed
+
+- **Rulings register made optional.** Standing Rules 1.2 and 2.05 now carry any rulings the user has made for the current job's passage, from the job's discussion or from any written record the Orchestrator keeps. The Framework does not require a written record; a missing or empty record does not stop a packet. A ruling meant to govern future chapters is not carried across jobs this way: once the user adopts it, it lives in the five files.
+- **1st-Century_Contextual_Framework.md:** Stage 2 and Stage 3 closed-input sentences now point to those rules rather than naming a Locked Rulings Register.
+- **Framework_Standing_Rules.md** title date is now 11-16-2026. The constitution title remains (v10.0).
+
+### Removed
+
+- **Locked_Rulings_Register.md**, the empty starter register. It remains in the repository history.
+
 ## [10.0] - 2026-11-12
 
 ### Added
