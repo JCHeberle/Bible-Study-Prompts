@@ -1,0 +1,3 @@
+# Keep Markdown and text files LF on every platform, including Windows checkouts.
+* text=auto eol=lf
+*.md text eol=lf
